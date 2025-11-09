@@ -1,0 +1,20 @@
+{
+    "sample": [
+        {
+            "org_id": 0,
+            "git_public_usage": "100.0000000000000000",
+            "git_private_usage": "100.0000000000000000",
+            "git_total_usage": "200.0000000000000000",
+            "git_scale": "GB",
+            "timestamp": "2025-10-10T10:10:10.110Z"
+        },
+        {
+            "org_id": 0,
+            "git_public_usage": "100.0000000000000000",
+            "git_private_usage": "100.0000000000000000",
+            "git_total_usage": "200.0000000000000000",
+            "git_scale": "GB",
+            "timestamp": "2025-10-10T10:10:10.110Z"
+        }
+    ]
+}
